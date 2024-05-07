@@ -1,7 +1,7 @@
 package com.section03;
 
 import com.javamaster.mypackage.Cat;
-
+// object 클래스 예시
 public class Ex1004 {
 
 	public static void main(String[] args) {

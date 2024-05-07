@@ -8,7 +8,7 @@ public class Ex1007 {
 		str.append("Programming"); //추가
 		System.out.println(str);
 		
-		str.insert(6, "Java"); //삽입
+		str.insert(6, "Java "); //삽입
 		System.out.println(str);
 		
 		str.replace(1, 4, "Good");

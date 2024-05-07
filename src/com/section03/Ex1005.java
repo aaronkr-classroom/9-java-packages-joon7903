@@ -1,5 +1,5 @@
 package com.section03;
-
+//Math 클래스 예시
 public class Ex1005 {
 
 	public static void main(String[] args) {
